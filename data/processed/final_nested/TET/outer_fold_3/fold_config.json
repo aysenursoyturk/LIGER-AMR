@@ -1,0 +1,23 @@
+{
+  "antibiotic": "TET",
+  "outer_fold": 3,
+  "n_train": 3311,
+  "n_test": 828,
+  "train_S": 3063,
+  "train_R": 248,
+  "test_S": 766,
+  "test_R": 62,
+  "train_test_overlap": 0,
+  "inner_folds": 3,
+  "selected_k": 5000,
+  "final_snp_count": 4932,
+  "final_gene_count": 3918,
+  "gene_min_prevalence": 0.01,
+  "gene_max_prevalence": 0.99,
+  "min_state_n": 5,
+  "min_lineages": 2,
+  "min_agreement": 0.75,
+  "random_state": 42,
+  "outer_test_used_for_feature_selection": false,
+  "outer_test_used_for_k_selection": false
+}

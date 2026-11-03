@@ -222,7 +222,6 @@ __marimo__/
 # LIGER-AMR data exclusions
 /data/raw/*
 !/data/raw/.gitkeep
-/data/processed/
 /data/splits/
 /data/feature_selection/
 /data/file_manifest.csv

@@ -1,0 +1,23 @@
+{
+  "antibiotic": "GEN",
+  "outer_fold": 2,
+  "n_train": 3311,
+  "n_test": 828,
+  "train_S": 3074,
+  "train_R": 237,
+  "test_S": 769,
+  "test_R": 59,
+  "train_test_overlap": 0,
+  "inner_folds": 3,
+  "selected_k": 5000,
+  "final_snp_count": 4674,
+  "final_gene_count": 3913,
+  "gene_min_prevalence": 0.01,
+  "gene_max_prevalence": 0.99,
+  "min_state_n": 5,
+  "min_lineages": 2,
+  "min_agreement": 0.75,
+  "random_state": 42,
+  "outer_test_used_for_feature_selection": false,
+  "outer_test_used_for_k_selection": false
+}
