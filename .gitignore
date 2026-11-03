@@ -218,3 +218,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# LIGER-AMR data exclusions
+/data/raw/*
+!/data/raw/.gitkeep
+/data/processed/
+/data/splits/
+/data/feature_selection/
+/data/file_manifest.csv
+
+# Python temporary files
+__pycache__/
+*.py[cod]
